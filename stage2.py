@@ -22,5 +22,5 @@ except Exception as ex:
 
 
 # with open("health.txt", 'w') as output:
-#     for row in domains:
+#     for row in health:
 #         output.write(str(row) + '\n')
